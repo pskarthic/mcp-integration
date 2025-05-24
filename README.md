@@ -39,6 +39,8 @@ INFO:     127.0.0.1:51230 - "POST /messages/?session_id=9a1abb94b13f457f8c90de15
 **Configuring Claude**
 
 [Download claude](https://claude.ai/download)
+
+
 [Configure MCP server](https://appwrite.io/docs/tooling/mcp/claude#step-1)
 
 
